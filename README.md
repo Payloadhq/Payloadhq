@@ -1,5 +1,7 @@
 # Payload
 
+> Payload — Developer infrastructure for x402, agent payments, and programmable revenue.
+
 **PAYLOAD is the parent technology company behind Veyline, callx402, and RevRule.**
 
 We build production infrastructure for the agent economy: the production layer for
@@ -51,6 +53,7 @@ or touches funds.
 
 ## Brand notes
 
+- Hierarchy: PAYLOAD → VEYLINE (flagship) → CALLX402 (action layer) → REVRULE (separate product) → developer products → free utilities.
 - PAYLOAD is the parent company; product names always carry the endorsement: Veyline **by Payload**, callx402 **by Payload**, RevRule **by Payload**.
 - callx402 is the action, not the flagship name. The flagship brand is Veyline.
 - Payload is not affiliated with the x402 Foundation.
